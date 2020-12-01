@@ -5,7 +5,7 @@
 
 二.整線示意圖
 
-![image](https://github.com/tddwso/Automation-Line/blob/main/%E6%95%B4%E7%B7%9A.PNG)
+![image](https://github.com/tddwso/Automated-Solar-Production-Line/blob/main/%E7%B7%87%E5%8D%9ALine.PNG)
 
 三.負責項目
 
