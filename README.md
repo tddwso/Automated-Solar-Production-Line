@@ -1,4 +1,4 @@
-# Automated-solar-production-line
+# Automated Solar Production Line
 一.整線概況說明
 
 系統板輸送線是由PLC系統所控制的機台，目的是將65吋LCD顯示器一站接著一站往下傳遞，經過鎖螺絲機時進行鎖附，鎖附完成後送往下一站。
