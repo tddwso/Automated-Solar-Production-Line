@@ -19,5 +19,5 @@
 
 3.協助整線生產
 
-![image](https://github.com/tddwso/Automated-Solar-Production-Line/blob/main/%E5%B1%B1%E6%9D%B1Robot.jpg)
+![image](https://github.com/tddwso/Automated-Solar-Production-Line/blob/main/%E5%B1%B1%E6%9D%B1Auto%20line.PNG)
 
